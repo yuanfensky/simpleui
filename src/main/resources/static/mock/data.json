@@ -1,0 +1,93 @@
+    [ {
+						"menuid" : "10",
+						"icon" : "icon-sys",
+						"text" :"新闻1",
+						"menuname" : "基础数据"
+						},
+						 {
+							"menuid" : "111",
+							"text" :"新闻2",
+							"menuname" : "基础数据1",
+							"icon" : "icon-nav",
+							"url" : "#"
+						}, 
+						{
+							"menuid" : "113",
+							"text" :"新闻3",
+							"menuname" : "基础数据12",
+							"icon" : "icon-nav",
+							"url" : "#"
+						}, 
+						{
+							"menuid" : "115",
+							"text" :"新闻4",
+							"menuname" : "基础数据13",
+							"icon" : "icon-nav",
+							"url" : "#"
+						}, 
+						{
+							"menuid" : "117",
+							"text" :"新闻5",
+							"menuname" : "基础数据14",
+							"icon" : "icon-nav",
+							"url" : "#"
+						},
+						 {
+							"menuid" : "119",
+							"text" :"新闻6",
+							"menuname" : "基础数据15",
+							"icon" : "icon-nav",
+							"url" : "em/enterpriseChannelObtend.action"
+						
+					}, 
+					{
+						"menuid" : "20",
+						"text" :"新闻7",
+						"icon" : "icon-sys",
+						"menuname" : "测试一"
+						},
+						{
+							"menuid" : "211",
+							"text" :"新闻8",
+							"menuname" : "测试一11",
+							"icon" : "icon-nav",
+							"url" : "#"
+						},
+						 {
+							"menuid" : "213",
+							"text" :"新闻9",
+							"menuname" : "测试一22",
+							"icon" : "icon-nav",
+							"url" : "#"
+						},{
+						   "text" :"新闻10"
+						
+						},
+						{
+						   "text" :"新闻11"
+						
+						},
+						{
+						   "text" :"新闻12"
+						
+						},
+						{
+						   "text" :"新闻13"
+						
+						},
+						{
+						   "text" :"新闻14"
+						
+						},
+						{
+						   "text" :"新闻15"
+						
+						},
+						{
+						   "text" :"新闻16"
+						
+						}
+						]
+					
+					
+					
